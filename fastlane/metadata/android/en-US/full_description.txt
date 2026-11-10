@@ -1,0 +1,25 @@
+O Media Player is a multimedia player for Android. It combines a high-performance video engine with a sophisticated music player and a security access lock to protect your personal media. 
+Application has no internet connectivity at all, everything is ad free and no trackers whatsoever.
+
+Key Features:
+
+SILKY SMOOTH VIDEO PLAYBACK
+  Optimized for large files: Open 4K and Ultra HD videos without lag.
+  Advanced Buffering: Zero-stutter playback.
+  Gesture Controls: Swipe left for brightness, right for volume, and horizontal to seek.
+  Background Play: Keep listening to your videos even when the screen is off.
+
+ PREMIUM AUDIO EXPERIENCE
+  High-Fidelity Playback: Supports all popular audio formats (MP3, FLAC, WAV, etc.).
+  Folder-Based Navigation. Dynamic Album Art: Adapts background based audio thumbnail color.
+  Smart Controls: Repeat modes, skip, and smooth seek bars.
+
+ SECURITY & ACCESS LOCK
+  PIN & Pattern Protection: App supports both PIN code and pattern lock to secure folders and playback.
+
+ MODERN & RESPONSIVE UI
+  Material 3 Design: A clean, beautiful interface that supports Light and Dark modes.
+  Optimized Performance: Lightweight and battery-efficient architecture.
+
+O Media Player is a fork of OmegaPlayer, originally created by Arsalan Daim Shar, and is licensed under the GNU General Public License v3.0 (GPLv3).
+
